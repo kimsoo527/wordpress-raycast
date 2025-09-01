@@ -43,7 +43,7 @@
   ],
   "dependencies": {
     "@raycast/api": "latest",
-    "@raycast/utils": "^1.4.7",
+    "@raycast/utils": "^2.2.0",
     "email-validator": "^2.0.4",
     "form-data": "^4.0.0",
     "nanoid": "^4.0.0",
